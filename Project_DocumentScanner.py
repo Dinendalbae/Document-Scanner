@@ -6,7 +6,7 @@ import numpy as np
 widthImg=480
 heightImg =640
 #####################################
-img = cv2.imread("Resources/1.jpg")
+img = cv2.imread("free-letter-mockup.jpg")
 #cap = cv2.VideoCapture(0)
 #cap.set(10,150)
 
